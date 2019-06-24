@@ -1,0 +1,8 @@
+E:\git\FirstUniteWeb\FirstWeb\FirstWeb.Core\bin\Debug\FirstWeb.Core.dll
+E:\git\FirstUniteWeb\FirstWeb\FirstWeb.Core\bin\Debug\FirstWeb.Core.pdb
+E:\git\FirstUniteWeb\FirstWeb\FirstWeb.Core\bin\Debug\Dapper.dll
+E:\git\FirstUniteWeb\FirstWeb\FirstWeb.Core\bin\Debug\Dapper.xml
+E:\git\FirstUniteWeb\FirstWeb\FirstWeb.Core\obj\Debug\FirstWeb.Core.csproj.CoreCompileInputs.cache
+E:\git\FirstUniteWeb\FirstWeb\FirstWeb.Core\obj\Debug\FirstWeb.Core.csproj.CopyComplete
+E:\git\FirstUniteWeb\FirstWeb\FirstWeb.Core\obj\Debug\FirstWeb.Core.dll
+E:\git\FirstUniteWeb\FirstWeb\FirstWeb.Core\obj\Debug\FirstWeb.Core.pdb
