@@ -6,3 +6,12 @@ E:\git\FirstUniteWeb\FirstWeb\FirstWeb.Core\obj\Debug\FirstWeb.Core.csproj.CoreC
 E:\git\FirstUniteWeb\FirstWeb\FirstWeb.Core\obj\Debug\FirstWeb.Core.csproj.CopyComplete
 E:\git\FirstUniteWeb\FirstWeb\FirstWeb.Core\obj\Debug\FirstWeb.Core.dll
 E:\git\FirstUniteWeb\FirstWeb\FirstWeb.Core\obj\Debug\FirstWeb.Core.pdb
+E:\FirstWeb\firstweb\FirstWeb\FirstWeb.Core\bin\Debug\FirstWeb.Core.dll
+E:\FirstWeb\firstweb\FirstWeb\FirstWeb.Core\bin\Debug\FirstWeb.Core.pdb
+E:\FirstWeb\firstweb\FirstWeb\FirstWeb.Core\bin\Debug\Dapper.dll
+E:\FirstWeb\firstweb\FirstWeb\FirstWeb.Core\bin\Debug\Dapper.xml
+E:\FirstWeb\firstweb\FirstWeb\FirstWeb.Core\obj\Debug\FirstWeb.Core.csprojAssemblyReference.cache
+E:\FirstWeb\firstweb\FirstWeb\FirstWeb.Core\obj\Debug\FirstWeb.Core.csproj.CoreCompileInputs.cache
+E:\FirstWeb\firstweb\FirstWeb\FirstWeb.Core\obj\Debug\FirstWeb.Core.csproj.CopyComplete
+E:\FirstWeb\firstweb\FirstWeb\FirstWeb.Core\obj\Debug\FirstWeb.Core.dll
+E:\FirstWeb\firstweb\FirstWeb\FirstWeb.Core\obj\Debug\FirstWeb.Core.pdb
