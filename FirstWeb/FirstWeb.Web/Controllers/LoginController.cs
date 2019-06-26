@@ -47,10 +47,10 @@ namespace FirstWeb.Web.Controllers
                 var brush = new System.Drawing.Drawing2D.LinearGradientBrush(new Rectangle(0, 0, image.Width, image.Height), Color.Blue, Color.DarkRed, 1.2f, true);
                 g.DrawString(validateNum, font, brush, 2, 2);
                 //画图片的前景噪音点
-                for (int i = 0; i < 100; i++)
+                for (var i = 0; i < 100; i++)
                 {
-                    int x = random.Next(image.Width);
-                    int y = random.Next(image.Height);
+                    var x = random.Next(image.Width);
+                    var y = random.Next(image.Height);
                     image.SetPixel(x, y, Color.FromArgb(random.Next()));
 
                 }
