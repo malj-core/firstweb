@@ -14,4 +14,3 @@ E:\firstweb\firstweb\FirstWeb\FirstWeb.Core\obj\Debug\FirstWeb.Core.csproj.CoreC
 E:\firstweb\firstweb\FirstWeb\FirstWeb.Core\obj\Debug\FirstWeb.Core.csproj.CopyComplete
 E:\firstweb\firstweb\FirstWeb\FirstWeb.Core\obj\Debug\FirstWeb.Core.dll
 E:\firstweb\firstweb\FirstWeb\FirstWeb.Core\obj\Debug\FirstWeb.Core.pdb
-E:\firstweb\firstweb\FirstWeb\FirstWeb.Core\obj\Debug\FirstWeb.Core.csprojAssemblyReference.cache
