@@ -9,16 +9,16 @@ namespace FirstWeb.Core.Concrete
 {
     public class UserRepository
     {
-        private readonly IDBConnection dBConnection;
+        private readonly IDBConnection _dBConnection;
 
         public UserRepository(IDBConnection connection)
         {
-            dBConnection = connection;
+            _dBConnection = connection;
         }
 
         public IEnumerable<UserInfo> FindAll()
         {
-            using (var conn = dBConnection.GetConnection())
+            using (var conn = _dBConnection.GetConnection())
             {
                 try
                 {
